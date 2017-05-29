@@ -1,0 +1,15 @@
+{
+  "name": "http-dummy-server",
+  "version": "1.0.0",
+  "description": "dummy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kazunori.kimura",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "log4js": "^1.1.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appenders": [
+    {
+      "type": "file",
+      "category": "access",
+      "filename": "logs/access.log",
+      "maxLogSize": 104857600,
+      "backups": 6
+    },
+    {
+      "type": "console"
+    }
+  ]
+}
